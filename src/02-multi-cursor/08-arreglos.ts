@@ -4,9 +4,13 @@
 //*        Y usarlo para editar un arreglo de días de la semana
 //*    
 //*    Tips:
-//*        ⌥ ⌘ ↑ / ↓
-//*        Ctrl + Alt+ ↑ / ↓
+//*        Mac => ⌥ ⌘ ↑ / ↓
+//*        Windows => Ctrl + Alt + ↑ / ↓
 //*
+//*   ctrl + alt + ↑ ↓
+//*   shif + alt + ← →
+//*   agregar '
+//*   copy +
 //*
 
 // Crear un arreglo con los días de la semana
@@ -17,7 +21,6 @@ jueves
 viernes
 sábado
 domingo
-
 
 
 

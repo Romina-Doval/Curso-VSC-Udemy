@@ -4,13 +4,15 @@
 //*        También funciona con archivos HTML y otros
 //*
 //*    Tips:
-//*        ⌘ P => luego escribir la @
-//*        ⇧ ⌘ O
+//*        Mac => ⌘ P => luego escribir la @
+//*               ⇧ ⌘ O
 //*
-//*        Ctrl + P => luego escribir la @
-//*        Ctrl + Shift = O
+//*        Windows => Ctrl + P => luego escribir la @
+//*                   Ctrl + Shift = O
 //*
 //*        Se pueden agrupar si después de la @, se escriben :
+//*
+//?     Para analizar archivos
 //*
 
 

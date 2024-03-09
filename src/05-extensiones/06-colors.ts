@@ -8,3 +8,5 @@ const colores = [
 ];
 
 
+//* Settings => Extensiones => color Highlight => Marker Type
+//* Opciones => dot-before / dot-after / foreground / background / outline / underline
